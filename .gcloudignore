@@ -1,0 +1,4 @@
+#!include:.gitignore
+.env
+.env.*
+!.env.example
